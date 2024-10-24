@@ -3,7 +3,7 @@
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
-	{"name":"mooncake", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/Mooncake.png"},
+	{"name":"Mooncake", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/Mooncake.png"},
         {"name":"boluo", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/boluo.png"},
         {"name":"dongying", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/dongying.png"},
 	{"name":"huige", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/huige.png"},
