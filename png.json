@@ -114,7 +114,8 @@
 	{"name":"truemusic", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/truemusic.png"},
 	{"name":"tt", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/tt.png"},
 	{"name":"uhd", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/uhd.png"},
-        {"name":"wenjian", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/wenjian.png"},
+    {"name":"wenjian", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/wenjian.png"},
+	{"name":"xhjt", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/xhjt.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yezi.png"},
 	{"name":"yhhl", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yhhl.png"},
 	{"name":"youno", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/youno.png"},
@@ -130,3 +131,4 @@
 	
     ]
 }
+
