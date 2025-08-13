@@ -27,7 +27,7 @@
 	{"name":"edge", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/edge.png"},
 	{"name":"ee", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/ee.png"},
 	{"name":"eee", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/eee.png"},
-        {"name":"embyil1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/embyil1.png"},
+    {"name":"embyil1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/embyil1.png"},
 	{"name":"embyil2", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/embyil2.png"},    
 	{"name":"epub", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/epub.png"},
 	{"name":"feiniu", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/feiniu.png"},
@@ -58,6 +58,7 @@
 	{"name":"ljf", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/ljf.png"},
 	{"name":"ljjq", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/ljjq.png"},
 	{"name":"ll", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/ll.png"},
+	{"name":"llm", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/llm.png"},
 	{"name":"lm", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/lm.png"},
 	{"name":"luob", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/luob.png"},
 	{"name":"luob1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/luob1.png"},
@@ -132,5 +133,6 @@
 	
     ]
 }
+
 
 
