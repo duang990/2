@@ -21,6 +21,7 @@
 	{"name":"bpef", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/bpef.png"},
 	{"name":"cherry", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/cherry.png"},
 	{"name":"cimm", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/cimm.png"},
+	{"name":"cloud1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/cloud1.png"},
 	{"name":"cloud", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/cloud.png"},
 	{"name":"coco", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/coco.png"},
 	{"name":"ct", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/ct.png"},
@@ -150,6 +151,7 @@
 	
     ]
 }
+
 
 
 
