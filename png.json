@@ -18,6 +18,7 @@
 	{"name":"aur1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/aur1.png"},
 	{"name":"awamusic", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/awamusic.png"},
 	{"name":"bb", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/bb.png"},
+	{"name":"bcxc", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/bcxc.png"}
 	{"name":"boluo", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/boluo.png"},
 	{"name":"boompa", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/boompa.png"},
 	{"name":"bpef", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/bpef.png"},
@@ -52,6 +53,7 @@
 	{"name":"gousheng2", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/gousheng2.png"},
 	{"name":"gugu", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/gugu.png"},
 	{"name":"hdou", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/hdou.png"},
+	{"name":"hellohk", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/hellohk.png"},
 	{"name":"hg", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/hg.png"},
 	{"name":"highsea", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/highsea.png"},
 	{"name":"hka", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/hka.png"},
@@ -127,6 +129,7 @@
 	{"name":"saodu", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/saodu.png"},
 	{"name":"sat", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/sat.png"},
 	{"name":"sex", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/sex.png"},
+	{"name":"shayu", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/shayu.png"},
 	{"name":"shouhou", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/shouhou.png"},
 	{"name":"shouhou1", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/shouhou1.png"},
 	{"name":"shrek", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/shrek.png"},
@@ -151,7 +154,9 @@
 	{"name":"uhd", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/uhd.png"},
 	{"name":"wandou", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/wandou.png"},
     {"name":"wenjian", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/wenjian.png"},
+	{"name":"wswj", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/wswj.png"},
 	{"name":"xhjt", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/xhjt.png"},
+	{"name":"xyz", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/xyz.png"},
 	{"name":"xzx", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/xzx.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yezi.png"},
 	{"name":"yhhl", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yhhl.png"},
@@ -173,6 +178,7 @@
 	
     ]
 }
+
 
 
 
