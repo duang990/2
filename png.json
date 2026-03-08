@@ -3,6 +3,7 @@
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
+	{"name":"0", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/0.png"},
 	{"name":"105", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/105.png"},
 	{"name":"1111", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/1111.png"},
 	{"name":"38", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/38.png"},
@@ -194,12 +195,14 @@
 	{"name":"yzx", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yzx.png"},
 	{"name":"yx", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/yx.png"},
 	{"name":"zll", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/zll.png"},
+	{"name":"zhezhi", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/zhezhi.png"},
 	{"name":"zhousan", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/zhousan.png"},
 	{"name":"zn", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/zn.png"},
 	{"name":"zox", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/zox.png"}
 	
     ]
 }
+
 
 
 
