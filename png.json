@@ -4,6 +4,21 @@
 "icons":
     [
 	{"name":"0", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/0.png"},
+	{"name":"p01", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p01.png"},
+	{"name":"p02", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p02.png"},
+	{"name":"p03", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p03.png"},
+	{"name":"p04", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p04.png"},
+	{"name":"p05", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p05.png"},
+	{"name":"p06", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p06.png"},
+	{"name":"p07", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p07.png"},
+	{"name":"p08", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p08.png"},
+	{"name":"p09", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p09.png"},
+	{"name":"p10", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p10.png"},
+	{"name":"p11", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p11.png"},
+	{"name":"p12", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p12.png"},
+	{"name":"p13", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p13.png"},
+	{"name":"p14", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p14.png"},
+	{"name":"p15", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/p15.png"},
 	{"name":"105", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/105.png"},
 	{"name":"1111", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/1111.png"},
 	{"name":"38", "url":"https://raw.githubusercontent.com/duang990/2/refs/heads/main/38.png"},
@@ -203,6 +218,7 @@
 	
     ]
 }
+
 
 
 
